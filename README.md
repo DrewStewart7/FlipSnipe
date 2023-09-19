@@ -21,3 +21,10 @@ Yes. It did. This program would "snipe"(but items at a discount) 100-200 times p
 Feel free to take a look at my work that was done. Keep in mind that it was always intended as personal-use only. The code is far from production-quality and is mising important things like comments and pretty line spacing.
 
 Thank you for taking the time to learn about my program :)
+
+Some pictures of snipe information:
+
+![image](https://github.com/DrewStewart7/FlipSnipe/assets/114938193/4a4ce005-e4eb-4a1a-96cb-410df2070789)
+
+![image](https://github.com/DrewStewart7/FlipSnipe/assets/114938193/bec14c72-e49d-4bfc-8fcd-1b5e7b6b9e8a)
+
