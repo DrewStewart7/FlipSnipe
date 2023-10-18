@@ -1,6 +1,11 @@
 # FlipSnipe
 Roblox Third Party Market Item Sniper Bot
 
+Earnings
+
+FlipSnipe was able to generate me about $1,500 profit per month, every month, until Roblox changed and made this impossible. I'm mad at myself for not hopping on this train earlier as I only was able to utilize this program for a few months. It's crazy to me that I was able to type a bit on a computer and end up with something that generates $18k/year 100% automatically. Anyway, heres a snippet of my spreadsheet which tracked earnings: 
+<img width="955" alt="image" src="https://github.com/DrewStewart7/FlipSnipe/assets/114938193/4a5a6b7a-23d7-4bd5-8b3b-7691805c6d64">
+
 
 Introduction 
 
