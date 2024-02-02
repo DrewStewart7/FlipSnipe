@@ -11,7 +11,7 @@ FlipSnipe will buy these Roblox items that are being sold for real money on a th
 
 It will only buy the items that are being sold at a large discount. It is because of this that FlipSnipe must be as efficient as possible. There was very much competition in this market amongst bot developers like myself. Everyone wants to snipe the good items, but only those with the fastest bots are able to.
 
-FlipSnipe using something called Websockets. Instead of having to repetedly ask for information about the market, websockets are kind of like a constant bridge between server and client. The server would basically tell the program when a new item was listed, intead of the other way around(program asks if an item was listed). This functionality also removes the need for proxies or any anti-ratelimiting measure because we are doing nothing more than a regular user looking at the market would do.
+FlipSnipe used something called Websockets. Instead of having to repetedly ask for information about the market, websockets are kind of like a constant bridge between server and client. The server would basically tell the program when a new item was listed, intead of the other way around(program asks if an item was listed). This functionality also removes the need for proxies or any anti-ratelimiting measure because we are doing nothing more than a regular user looking at the market would do.
 
 So, did it work?
 
