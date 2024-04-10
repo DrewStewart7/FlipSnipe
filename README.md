@@ -13,6 +13,9 @@ It will only buy the items that are being sold at a large discount. It is becaus
 
 FlipSnipe used something called Websockets. Instead of having to repetedly ask for information about the market, websockets are kind of like a constant bridge between server and client. The server would basically tell the program when a new item was listed, intead of the other way around(program asks if an item was listed). This functionality also removes the need for proxies or any anti-ratelimiting measure because we are doing nothing more than a regular user looking at the market would do.
 
+Furthermore, FlipSnipe had the capability to snipe multiple items at once. This would happen if a user listed all of the discounted items on the market at the same time. Flipsnipe would only send 1 http request to buy all the items (up to 
+5 at a time), instead of sending 1 for each item individually.
+
 So, did it work?
 
 Yes. It did. This program would "snipe"(buy items at a discount) 100-200 times per day. $0.50-$100 profit would be earned with each snipe, with most of them being closer to the lower bound. High profit snipes were the most difficult to get because of the immense competition.
